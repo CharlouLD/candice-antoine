@@ -40,6 +40,13 @@ h1 {
   background-color: #FFE77A;
 }
 
+.bg-color-red-hot p {
+  color: #de8f6e;
+  font-family: 'Amatic SC', cursive;
+  padding-top: 10px;
+  font-size: 25px;
+}
+
 .footer-background {
  background-color: #de8f6e;
  padding: 2em;
@@ -86,6 +93,7 @@ h1 {
 }
 .card-description p {
   font-size: 13px;
+  color: white;
   }
 .card-link {
   position: absolute;
